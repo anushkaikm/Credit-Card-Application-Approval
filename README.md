@@ -65,10 +65,6 @@ Random Forest achieved the best performance with:
 
 ---
 
-Here's how you can include an **Acknowledgment** section in the GitHub README:  
-
----
-
 ## 🙏 Acknowledgments  
 I would like to express my gratitude to the following for their invaluable support and resources:  
 
